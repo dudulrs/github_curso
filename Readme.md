@@ -1,6 +1,1 @@
-teste
-
-Agora sim
-
-Eai pessoal 
-como esta?
+Aprendendo os comandos basicos do Git
